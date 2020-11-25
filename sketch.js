@@ -27,8 +27,6 @@ function preload() {
   plane_image = loadImage("plane1.png");
   plane2_image = loadImage("plane2.png");
   chopper_image = loadImage("chopper1.png");
-
-  restart_image = loadImage("restart.png");
 }
 
 // function to setup 
